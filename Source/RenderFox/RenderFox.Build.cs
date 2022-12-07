@@ -26,6 +26,7 @@ public class RenderFox : ModuleRules
 			new string[]
 			{
 				"Core",
+				"RenderCore",
 				// ... add other public dependencies that you statically link with here ...
 			}
 			);
